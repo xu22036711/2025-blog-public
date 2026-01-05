@@ -52,7 +52,7 @@
 			"id": "juejin",
 			"type": "link",
 			"value": "http://x.xys1213.cn/",
-			"label": "稀土掘金",
+			"label": "SongSongの网址库",
 			"order": 2
 		},
 		{
@@ -63,12 +63,12 @@
 			"order": 1
 		}
 	],
-	"clockShowSeconds": true,
+	"clockShowSeconds": false,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 1,
+	"currentHatIndex": 3,
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"beian": {
